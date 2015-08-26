@@ -1,4 +1,4 @@
-- git: {local-name: camera_models, uri: 'https://github.com/jhu-lcsr/lcsr_camera_models.git', version: master}
-- git: {local-name: revo-robot, uri: 'https://github.com/chicagoedt/Software_IGVC.git', version: master}
-- git: {local-name: revo-simulation, uri: 'https://github.com/chicagoedt/IGVC_Simulation.git', version: master}
-- git: {local-name: roboteq_driver, uri: 'https://github.com/chicagoedt/roboteq-usb-ros.git', version: master}
+- git: {local-name: src/revo_robot, uri: 'https://github.com/chicagoedt/revo_robot.git', version: development}
+- git: {local-name: src/revo_simulation, uri: 'https://github.com/chicagoedt/revo_simulation.git', version: master}
+- git: {local-name: src/roboteq_driver, uri: 'https://github.com/chicagoedt/roboteq-usb-ros.git', version: master}
+- git: {local-name: src/revo_simulation/camera_models, uri: 'https://github.com/jhu-lcsr/lcsr_camera_models.git', version: master}
